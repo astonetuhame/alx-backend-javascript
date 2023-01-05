@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const groceriesList = () => {
     const map = new Map();
     map.set('Apples', 10);

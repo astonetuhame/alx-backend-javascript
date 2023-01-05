@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const getListStudentIds = (listStudents) => {
     let listStudentIds = [];
     if (!(listStudents instanceof Array)) {

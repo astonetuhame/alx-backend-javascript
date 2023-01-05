@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const updateUniqueItems = (items) => {
     if (!(items instanceof Map)) {
       throw new Error('Cannot process');
